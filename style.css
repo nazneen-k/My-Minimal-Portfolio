@@ -358,6 +358,41 @@ article .icon {
   cursor: default;
 }
 
+
+
+/* RESEARCH SECTION */
+
+#projects {
+  position: relative;
+}
+
+.research-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.00rem;
+  margin-bottom: 2rem;
+}
+.color-container {
+  border-color: rgb(163, 163, 163);
+  background: black;
+}
+
+.project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
+
+.project-title {
+  margin: 1rem;
+  color: white;
+}
+
+.project-btn {
+  color: white;
+  border-color: rgb(163, 163, 163);
+}
+
 /* PROJECTS SECTION */
 
 #projects {
