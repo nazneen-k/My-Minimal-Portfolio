@@ -1,4 +1,5 @@
 # My Portfolio!
 
 
-![Screenshot 2023-10-21 225414](https://github.com/nazneen-k/My-Minimal-Portfolio/assets/117660793/b8d74e58-712e-45a6-b663-e541fa041bea)
+<img width="1880" height="911" alt="image" src="https://github.com/user-attachments/assets/f3cee396-316d-4b0e-872a-38d67dd93469" />
+
